@@ -8,7 +8,7 @@
 ### What I currently Do
 
 - 🔭 I’m currently working as a freelancer and learning Angular
-- :computer: Most used line of code `consol.log(x)`
+- :computer: Most used line of code `console.log(x)`
 - 🤔 I’m looking for a junior/entry software developer position
 - 📫 How to reach me: ikovace3@gmail.com
 - 😄 Interest: lifelong learning, self-actualization, cooking, reading...
